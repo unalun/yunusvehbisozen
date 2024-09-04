@@ -1,0 +1,134 @@
+/* Main Style Sheet Jewel Theme
+* ---------------------------------------------------------------------- 
+* Theme Name: Appolo Health - Medical HTML5 Template 
+* Theme URI: http://jeweltheme.com/
+* Author: Jewel Theme
+* Author URI: http://jeweltheme.com/
+* Description: Appolo Health - Medical HTML5 Template 
+* Version: 1.0.0
+* License: GNU General Public License v2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Tags: html, template, appolo, health, jeweltheme
+* ----------------------------------------------------------------------*/
+
+
+/* 1 - Import Google Font
+------------------------------------------------------------------------*/ 
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,600|Source+Sans+Pro:400,600,700,900');
+
+/* 1 - Google Font End 
+------------------------------------------------------------------------*/
+
+
+/* 1 - Global Style
+------------------------------------------------------------------------*/
+body {
+	color: #8c8c8c;
+	font-size: 16px;
+	line-height: 23px;
+	font-family: 'Roboto', 'Source Sans Pro', sans-serif;
+	overflow-x: hidden;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+
+	text-rendering: optimizeLegibility !important;
+
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+
+	-webkit-overflow-scrolling: touch;
+	-moz-overflow-scrolling: touch;
+	-ms-overflow-scrolling: touch;
+	-o-overflow-scrolling: touch;
+	overflow-scrolling: touch;
+}
+p,
+.description {
+	color: #666;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 27px;
+	margin-top: 15px;
+}
+a {
+	text-decoration: none;
+
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+a:focus,
+a:hover {
+	color: #2998d4;
+	text-decoration: none;
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 25px;
+}
+h3 {
+	font-size: 20px;
+}
+h4 {
+	font-size: 18px;
+}
+h5 {
+	font-size: 16px;
+}
+h6 {
+	font-size: 15px;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Source Sans Pro';
+	margin: 0;
+	padding: 0;
+}
+img {
+	max-width: 100%;
+	height: auto;
+
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+ul,
+li {
+	margin: 0;
+	padding: 0;
+}
+li {
+	display: inline-block;
+	list-style: none;
+}
+img {
+	max-width: 100%;
+}
+a:focus {
+	outline: 0;
+}
+.media {
+	padding: 0;
+	margin: 0;
+}
+select:focus,
+input:focus,
+button:focus,
+textarea:focus,
+.form-control:focus,
+button {
+	box-shadow: none;
+	outline: 0;
+}
+iframe {
+	border: none;
+	border-radius: 0;
+	width: 100%;
+}

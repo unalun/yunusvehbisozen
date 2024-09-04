@@ -1,0 +1,55 @@
+.top-section header {
+	background: #fff !important;
+}
+.team .section-padding {
+	padding-bottom: 140px;
+}
+.team .member {
+	margin-bottom: 60px;
+	padding-bottom: 100px;
+	overflow: hidden;
+	position: relative;
+}
+.member-details {
+	background: #f3f3f3;
+	bottom: -52px;
+	height: initial;
+	top: initial;
+	padding: 15px 0 25px;
+	text-transform: uppercase;
+
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	-ms-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+.member:hover .member-details {
+	bottom: 0;
+}
+.member .bio,
+.member-social {
+	background: #f3f3f3;
+	opacity: 1;
+	padding-bottom: 0;
+	position: initial;
+	text-align: center;
+}
+.name {
+	display: block;
+}
+.designation {
+	display: block;
+	padding-left: 0;
+	padding-top: 5px;
+}
+.designation:before {
+	content: '';
+	display: none;
+}
+.member-social {
+	padding-top: 28px;
+}
+.member:hover .member-social {
+	height: initial;
+}

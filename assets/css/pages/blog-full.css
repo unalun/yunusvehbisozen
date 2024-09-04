@@ -1,0 +1,67 @@
+
+.blog-full .entry-meta {
+	padding-right: 25px;
+}
+.blog-full time {
+	color: #999;
+	font-family: 'Source Sans Pro';
+	text-transform: uppercase;
+}
+.blog-full .date {
+	border: 2px solid #d8d8d8;
+	display: inline-block;
+	font-size: 30px;
+	font-weight: 700;
+	height: 60px;
+	width: 60px;
+	line-height: 53px;
+	text-align: center;
+}
+.blog-full .month {
+	display: inline-block;
+	font-size: 18px;
+	padding-top: 5px;
+}
+.blog-full .entry-title {
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: -2px;
+}
+.blog-full .meta-info {
+	display: inline-block;
+	text-transform: initial;
+}
+.blog-full .meta-info a {
+	color: #2998d4;
+}
+.blog-full .description {
+	margin-top: 27px;
+}
+.blog-full article .btn {
+	margin-top: 23px;
+	padding: 12px 38px;
+}
+.blog-full .carousel-control {
+    background: #fff;
+    background-image: none !important;
+    color: #262626;
+    font-size: 17px;
+    top: 50%;
+    height: 35px;
+    line-height: 38px;
+    margin-top: -17px;
+    opacity: 1;
+    text-align: center;
+    text-shadow: none;
+    width: 35px;
+}
+.blog-full .carousel-control.left {
+    left: 3%;
+}
+.blog-full .carousel-control.right {
+    right: 3%;
+}
+.blog-full .pop-video {
+	background: none;
+	font-size: 65px;
+}

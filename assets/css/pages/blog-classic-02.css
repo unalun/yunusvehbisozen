@@ -1,0 +1,64 @@
+
+.blog-classic-02.main-content {
+	max-width: 920px;
+	margin: 0 auto;
+}
+.blog-classic-02 article {
+	max-width: 920px;
+}
+.blog-classic-02 .entry-meta {
+	padding-right: 25px;
+}
+.blog-classic-02 time {
+	color: #8c8c8c;
+	font-family: 'Source Sans Pro';
+	text-transform: uppercase;
+}
+.blog-classic-02 .date {
+	border: 2px solid #d8d8d8;
+	display: inline-block;
+	font-size: 30px;
+	font-weight: 700;
+	height: 60px;
+	width: 60px;
+	line-height: 53px;
+	text-align: center;
+}
+.blog-classic-02 .month {
+	display: inline-block;
+	font-size: 18px;
+	padding-top: 5px;
+}
+.blog-classic-02 .post .entry-title {
+    font-size: 22px;
+}
+.blog-classic-02 .post .meta-info {
+    color: #999;
+    font-family: 'Roboto';
+    font-size: 14px;
+    text-align: left;
+    text-transform: initial;
+}
+.blog-classic-02 .post .meta-info a {
+    color: #2998d4;
+    font-family: 'Roboto';
+}
+.blog-classic-02 .description {
+	margin-top: 27px;
+}
+.blog-classic-02 article .btn {
+	margin-top: 23px;
+	padding: 12px 38px;
+}
+.blog-classic-02 .pop-video {
+	background: none;
+	font-size: 70px;
+	height: 80px;
+	line-height: 80px;
+	width: 80px;
+	margin-top: -40px;
+	margin-left: -40px;
+}
+.blog-classic-02 blockquote {
+	letter-spacing: 2px;
+}

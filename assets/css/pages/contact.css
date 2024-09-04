@@ -1,0 +1,60 @@
+
+.contact-page .top-section header {
+	background: #fff !important;
+}
+
+.contact .item {
+	margin-top: -20px;
+	padding-bottom: 60px;
+}
+.contact-2 .item {
+	margin-top: 0;
+}
+.contact i {
+	color: #ccc;
+	display: inline-block;
+	font-size: 44px;
+	margin-bottom: 20px;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+}
+.contact .item-title {
+	color: #262626;
+	padding-bottom: 18px;
+}
+.contact span {
+	color: #8c8c8c;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
+.contact a {
+	color: #8c8c8c;
+}
+.contact form {
+	max-width: 960px;
+	margin:35px auto 0;
+}
+.contact form .form-control {
+	margin-bottom: 23px;
+	text-align: center !important;
+}
+.contact form .btn {
+	color: #2998d4;
+	margin-top: 40px;
+}
+.contact form .btn:hover {
+	background: #2998d4;
+	border-color: #2998d4;
+	color: #fff;
+}
+.google-map-container {
+	height: 500px;
+}
+.google-map-container img {
+	max-width: inherit;
+	height: inherit;
+}
+.contact-page .subscribe .section-title {
+	color: #fff;
+}

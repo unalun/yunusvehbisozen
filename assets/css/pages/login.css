@@ -1,0 +1,84 @@
+.top-section header {
+    background: #fff !important;
+}
+.login-details {
+	max-width: 570px;
+	margin: 0 auto;
+}
+.login-details form {
+	background: #f2f2f2;
+	padding: 60px;
+}
+.login-details form p {
+	margin: 0;
+	padding: 0;
+}
+.login-details input {
+	background: #f2f2f2;
+	border: 2px solid #ccc;
+	border-radius: 0;
+	box-shadow: none;
+	color: #8c8c8c;
+	font-family: 'Abel';
+	font-size: 16px;
+	height: 70px;
+	margin-bottom: 20px;
+	padding: 15px;
+	width: 100%;
+}
+.login-details input:focus {
+	border-color: #ccc;
+	outline: 0;
+}
+.login-details input[type="checkbox"] {
+	height: 13px;
+	width: 13px;
+}
+.checkbox {
+	margin: 0;
+	padding-left: 20px;
+}
+.login-form {
+	margin-bottom: 55px;
+}
+.login-form a {
+	color: #8c8c8c;
+	font-size: 15px;
+	text-decoration: underline;
+}
+.login-details .btn {
+	background: #2e2e2e;
+	border-color: #2e2e2e;
+	color: #fff;
+}
+.login-details .btn:focus {
+	border-color: #2e2e2e;
+	outline: 0;
+}
+.login-details .title {
+	color: #272727;
+	font-size: 18px;
+	padding: 42px 0;
+	text-align: center;
+}
+.panel-heading {
+	border: 2px solid #ccc;
+	border-bottom: 2px solid #ccc !important;
+	border-color: #ccc !important;
+	height: 80px;
+	line-height: 80px;
+}
+.panel-heading a {
+	line-height: 75px;
+	padding: 0;
+}
+.panel-group .panel {
+	border: none;
+	box-shadow: none;
+}
+.signup-form input {
+	height: 60px;
+}
+input:placeholder-shown {
+  text-transform: uppercase;
+}

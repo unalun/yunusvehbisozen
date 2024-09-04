@@ -1,0 +1,118 @@
+
+.blog-4-column .post .entry-title {
+    letter-spacing: .5px;
+    margin: -1px 0 10px;
+}
+.blog-4-column .post .entry-meta {
+    text-align: left;
+}
+.blog-4-column article .btn {
+    margin-top: 23px;
+    padding: 12px 38px;
+}
+.blog-4-column .description {
+    margin-top: 18px;
+}
+.blog-4-column .carousel-control {
+    background: #fff;
+    background-image: none !important;
+    color: #262626;
+    font-size: 17px;
+    top: 50%;
+    height: 35px;
+    line-height: 38px;
+    margin-top: -17px;
+    opacity: 1;
+    text-align: center;
+    text-shadow: none;
+    width: 35px;
+}
+.blog-4-column .carousel-control.left {
+    left: 3%;
+}
+.blog-4-column .carousel-control.right {
+    right: 3%;
+}
+.blog-4-column .quote {
+    background: #f1f1f1;
+    padding: 20px 30px 30px;
+    font-family: 'Source Sans Pro';
+}
+.blog-4-column .post .entry-thumbnail {
+    position: relative;
+}
+.blog-4-column .format-quote .entry-thumbnail {
+    padding: 0;
+}
+.blog-4-column .post .entry-meta {
+    text-align: left;
+}
+.blog-4-column .format-quote .name {
+    color: #fff;
+    display: block;
+    font-family: 'Source Sans Pro';
+    font-size: 14px;
+    text-align: right;
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
+}
+.blog-4-column .link {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    padding: 19px 20px 25px 40px;
+}
+.blog-4-column .link a {
+    margin-left: 0;
+}
+.blog-4-column .link:before {
+    position: absolute;
+    top: 22px;
+    left: 15px;
+    font-size: 18px;
+}
+.blog-4-column .post-quote,
+.blog-4-column .link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 101%;
+}
+.blog-4-column .post-quote {
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 23px;
+    padding: 20px 25px 25px;
+}
+
+.blog-4-column .post-video {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.blog-4-column .link {
+    border: none;
+    color: #fff;
+    -webkit-transform: translate(0%, 25%);
+    -moz-transform: translate(0%, 25%);
+    -ms-transform: translate(0%, 25%);
+    -o-transform: translate(0%, 25%);
+    transform: translate(0%, 25%);
+}
+.blog-4-column .link a {
+    color: #fff;
+}
+.pagination {
+    display: block;
+    text-align: center;
+}
+.pagination a {
+    display: inline-block;
+    float: none;
+    vertical-align: text-bottom;
+}

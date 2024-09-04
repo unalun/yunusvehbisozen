@@ -1,0 +1,136 @@
+/*------ About 08 ---------*/
+
+.about-8 .heading {
+    position: relative;
+    margin-bottom: 40px;
+}
+.about-8 .title {
+    color: #ffffff;
+    background: rgba(0, 0, 0, 0.44);
+    font-weight: 700;
+    letter-spacing: 0;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    margin-top: -31px;
+    left: 0;
+    padding: 20px 30px;
+    width: 100%;
+    text-align: center;
+}
+.about-8 .heading img {
+    width: 100%;
+}
+.about-8 .description {
+    padding-right: 0;
+}
+
+
+/* ----------- Features 13 -----------*/
+
+.feature-13 .section-padding {
+    padding-top: 0;
+}
+.feature-13 .description {
+    font-family: 'Roboto';
+    font-size: 20px;
+    line-height: 25px;
+    padding-right: 0;
+}
+.feature-13 .features-list {
+    padding-top: 17px;
+}
+.feature-13 .features-list li {
+    line-height: 34px;
+    position: relative;
+}
+.features-list li p {
+    line-height: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+/* ---------- Fact 09 -----------*/
+
+.fact-9 .icon {
+    color: #262626;
+    display: inline-block;
+    font-size: 35px;
+    margin-right: 15px;
+}
+.fact-9 .count-inner {
+    color: #404040;
+    display: inline-block;
+}
+.fact-9 .fact-title {
+    color: #272727;
+}
+
+/* ---------- Team 05 ----------*/
+
+.team-05 .section-padding {
+    padding-bottom: 120px;
+}
+.team-05 .member {
+    margin-bottom: 80px;
+}
+.member-image {
+    position: relative;
+}
+.member-social {
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 50px;
+    line-height: 55px;
+    width: 100%;
+    top: 50%;
+    margin-top: -25px;
+    left: 0;
+    opacity: 0;
+    padding: 0;
+    position: absolute;
+
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease; 
+}
+.member:hover .member-social {
+    opacity: 1;
+}
+.member-social a {
+    color: #000;
+    display: inline-block;
+    font-size: 20px;
+    padding: 0 4px;
+}
+.team-05 .member-details {
+    background-color: #f3f3f3;
+    font-family: 'Abel';
+    padding: 24px 20px;
+    position: initial;
+}
+.team-05 .name {
+    color: #272727;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.team-05 .designation {
+    color: #666;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+/* ----------- Skills ----------*/
+
+.about-page-03 .skill.bg-gray {
+    background-color: #fff;
+}
+.about-page-03 .skill.bg-gray .section-padding {
+    padding-top: 0;
+}
+
+.about-us p {
+    margin: 0;
+    padding: 0;
+}

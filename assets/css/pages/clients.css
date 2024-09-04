@@ -1,0 +1,59 @@
+
+.our-clients .section-padding {
+	padding-bottom: 20px;
+}
+.our-clients .item {
+	margin-bottom: 117px;
+	padding: 0 3px;
+}
+.our-clients .item-title {
+	color: #8c8c8c;
+	font-size: 18px;
+	padding-top: 27px;
+}
+.our-clients .item img {
+	-webkit-filter: grayscale(1);
+	-moz-filter: grayscale(1);
+	-ms-filter: grayscale(1);
+	-o-filter: grayscale(1);
+	filter: grayscale(1);
+}
+.our-clients .item img:hover {
+	-webkit-filter: grayscale(0);
+	-moz-filter: grayscale(0);
+	-ms-filter: grayscale(0);
+	-o-filter: grayscale(0);
+	filter: grayscale(0);
+}
+.core-services p,
+.core-services .description {
+	padding-right: 50px;
+}
+.testimonial-slider {
+	padding-bottom: 60px;
+}
+.testimonial-slider .owl-controls {
+	cursor: pointer;
+	max-width: 50px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	margin-left: -40px;
+}
+.testimonial-slider .owl-controls .owl-page {
+	background: #61605f;
+	border-radius: 50%;
+	display: inline-block;
+	height: 12px;
+	width: 12px;
+	margin: 0 2px;
+}
+.testimonial-slider .owl-controls .owl-page.active {
+	background: #9c9c9b;
+}
+.testimonial-3 .testimonial-slider .owl-page {
+	background: #fff;
+}
+.testimonial-3 .testimonial-slider .owl-page.active {
+	background: #c0c0c0;
+}

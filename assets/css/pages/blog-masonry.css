@@ -1,0 +1,83 @@
+
+
+/*.blog-masonry article {
+	width: calc(100% / 3 - 30px);
+}*/
+.blog-masonry .post .entry-title {
+	margin: -1px 0 10px;
+}
+.blog-masonry .post .entry-meta {
+	text-align: left;
+}
+.blog-masonry article .btn {
+	margin-top: 23px;
+	padding: 12px 38px;
+}
+.blog-masonry .description {
+	margin-top: 18px;
+}
+.blog-masonry .carousel-control {
+    background: #fff;
+    background-image: none !important;
+    color: #262626;
+    font-size: 17px;
+    top: 50%;
+    height: 35px;
+    line-height: 38px;
+    margin-top: -17px;
+    opacity: 1;
+    text-align: center;
+    text-shadow: none;
+    width: 35px;
+}
+.blog-masonry .carousel-control.left {
+    left: 3%;
+}
+.blog-masonry .carousel-control.right {
+    right: 3%;
+}
+.blog-masonry .quote {
+    background: #f1f1f1;
+    padding: 20px 30px 30px;
+    font-family: 'Abel';
+}
+.blog-masonry article blockquote {
+    color: #8c8c8c;
+    font-family: 'Abel';
+    font-size: 30px;
+    font-style: normal;
+    letter-spacing: 1px;
+    line-height: 45px;
+    margin: 0;
+    padding: 20px 30px 75px;
+}
+.blog-masonry .format-quote .entry-thumbnail {
+	margin-bottom: 0 !important;
+    padding: 0;
+    position: relative;
+}
+.blog-masonry .format-quote .name {
+    color: #262626;
+    display: block;
+    font-family: 'Abel';
+    font-size: 15px;
+    text-align: right;
+    position: absolute;
+    bottom: 33px;
+    right: 30px;
+}
+.blog-masonry .link {
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 29px;
+    padding: 25px 30px 25px 70px;
+}
+.blog-masonry .link a {
+	margin-left: 0;
+}
+.blog-masonry .link:before {
+    font-size: 24px;
+    position: absolute;
+    top: 30px;
+    left: 32px;
+}

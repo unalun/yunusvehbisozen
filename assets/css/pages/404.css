@@ -1,0 +1,84 @@
+
+.page-name-3 {
+	background-color: #e6e6e6;
+}
+.page-name-3 .section-padding {
+	padding: 120px 0;
+}
+.page-name-3 .name-box {
+	background: none;
+	border: none;
+	margin: 0;
+	max-width: initial;
+	padding: 0;
+}
+.page-name-3 .box-details {
+	padding: 0;
+}
+.page-name-3 .title {
+	color: #262626;
+}
+
+.error-section .section-padding {
+	padding: 160px 0;
+}
+.error-section .error-title {
+	color: #262626;
+	font-family: 'Source Sans Pro';
+	font-size: 200px;
+}
+.error-text {
+	color: #262626;
+	font-family: 'Source Sans Pro';
+	font-size: 18px;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	text-transform: uppercase;
+}
+.error-section .btn-container {
+	margin: 53px 0 45px;
+}
+.site-social {
+	background-color: #474747;
+}
+.site-social a {
+	color: #8c8c8c;
+	display: inline-block;
+	font-size: 30px;
+	padding: 45px 30px;
+}
+.error-section.background-bg .logo {
+	margin-bottom: 90px;
+}
+.error-section.background-bg .title {
+	color: #fff;
+	font-size: 25px;
+	margin-bottom: 3px;
+	text-align: center;
+}
+.error-section.background-bg .error-text,
+.error-section.background-bg .error-title {
+	color: #fff;
+}
+.error-section.background-bg .btn {
+	border-color: #fff;
+	color: #fff;
+}
+.error-section.background-bg .btn:hover {
+	border-color: #262626;
+}
+/*.error-section.background-bg .btn-container {
+	margin-bottom: 200px;
+}*/
+/*.error-section.background-bg .holder {
+	position: absolute;
+	bottom: -120px;
+	-webkit-transform: translateX(40%);
+	-moz-transform: translateX(40%);
+	-ms-transform: translateX(40%);
+	-o-transform: translateX(40%);
+	transform: translateX(40%);
+}*/
+/*.error-section.background-bg .section-padding {
+	padding-bottom: 0;
+	}*/

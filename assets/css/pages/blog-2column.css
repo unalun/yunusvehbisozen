@@ -1,0 +1,133 @@
+
+.blog-2-column .post .entry-title {
+    margin: -1px 0 10px;
+}
+.blog-2-column .post .entry-meta {
+    text-align: left;
+}
+.blog-2-column article .btn {
+    margin-top: 23px;
+    padding: 12px 38px;
+}
+.blog-2-column .description {
+    margin-top: 18px;
+}
+.blog-2-column .carousel-control {
+    background: #fff;
+    background-image: none !important;
+    color: #262626;
+    font-size: 17px;
+    top: 50%;
+    height: 35px;
+    line-height: 38px;
+    margin-top: -17px;
+    opacity: 1;
+    text-align: center;
+    text-shadow: none;
+    width: 35px;
+}
+.blog-2-column .carousel-control.left {
+    left: 3%;
+}
+.blog-2-column .carousel-control.right {
+    right: 3%;
+}
+.blog-2-column .quote {
+    background: #f1f1f1;
+    padding: 20px 30px 30px;
+    font-family: 'Abel';
+}
+.blog-2-column .post .entry-thumbnail {
+    position: relative;
+}
+.blog-2-column article blockquote {
+    color: #8c8c8c;
+    font-family: 'Abel';
+    font-size: 30px;
+    font-style: normal;
+    letter-spacing: 1px;
+    line-height: 45px;
+    margin: 0;
+    padding: 20px 30px 75px;
+}
+.blog-2-column .format-quote .entry-thumbnail {
+    padding: 0;
+}
+.blog-2-column .post .entry-meta {
+    text-align: left;
+}
+.blog-2-column .format-quote .name {
+    color: #fff;
+    display: block;
+    font-family: 'Abel';
+    font-size: 15px;
+    text-align: right;
+    position: absolute;
+    bottom: 33px;
+    right: 30px;
+}
+.blog-2-column .link {
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 29px;
+    padding: 25px 30px 25px 70px;
+}
+.blog-2-column .link a {
+    margin-left: 0;
+}
+.blog-2-column .link:before {
+    font-size: 24px;
+    position: absolute;
+    top: 30px;
+    left: 32px;
+}
+.blog-2-column .post-quote {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 101%;
+}
+.blog-2-column .post-quote {
+    color: #fff;
+    font-size: 43px;
+    letter-spacing: 2px;
+    line-height: 48px;
+    padding: 60px 60px 75px;
+}
+
+.blog-2-column .post-video {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    height: 100%;
+}
+.blog-2-column .link {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    border: none;
+    color: #fff;
+    font-size: 30px;
+    line-height: 45px;
+    
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.blog-2-column .link a {
+    color: #fff;
+}
+.pagination {
+    display: block;
+    text-align: center;
+}
+.pagination a {
+    display: inline-block;
+    float: none;
+    vertical-align: text-bottom;
+}

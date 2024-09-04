@@ -1,0 +1,66 @@
+.top-section header {
+	background: #fff !important;
+}
+.faq-contact .section-padding {
+	padding: 145px 0;
+}
+.faq-contact .title {
+	color: #fff;
+	font-size: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.faq-contact .btn {
+	background: #d9d9d9;
+	border-color: #d9d9d9;
+	color: #262626;
+}
+.accordion .panel {
+	margin-bottom: 20px;
+}
+
+.faq .nav-tabs {
+	border-bottom: none;
+}
+.faq .nav-tabs>li>a {
+	background: transparent;
+	border: 2px solid transparent;
+	border-bottom-color: #f2f2f2;
+	border-radius: 0;
+	color: #999;
+	font-family: 'Source Sans Pro';
+	font-size: 18px;
+	margin: 0;
+	padding: 26px 40px;
+	text-transform: uppercase;
+}
+.faq .nav-tabs>li.active>a, 
+.faq .nav-tabs>li.active>a:focus, 
+.faq .nav-tabs>li.active>a:hover {
+	border: 2px solid #f2f2f2;
+	border-bottom-color: transparent;
+	border-radius: 0;
+}
+.faq .nav-tabs>li>a:hover {
+	background: transparent;
+	border-color: transparent;
+	border-bottom-color: #f2f2f2;
+}
+.faq .tab-content {
+	padding: 35px 0;
+}
+.faq .panel-body {
+	color: #8c8c8c;
+	font-family: 'Roboto';
+	font-size: 15px;
+	padding: 0px 60px 40px 20px;
+}
+.faq .panel-title a:after {
+	color: #ccc;
+}
+.faq .panel-title a.collapsed:after {
+	color: #8c8c8c;
+}
+.faq .sidebar {
+	padding-left: 30px;
+}
